@@ -99,6 +99,6 @@ public class App
 
     public static void main(String[] args) {
         App.savaPageAsJpgByAcrobat(App.filePath,App.savePath);
-        System.out.println("parse pdf to imgage success");
+        System.out.println("pdf convert  to imgage success");
     }
 }
